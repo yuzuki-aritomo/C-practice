@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\ngnls\source\repos\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\ngnls\source\repos\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\ngnls\source\repos\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\ngnls\source\repos\Sort\Sort\obj\Debug\Sort.pdb

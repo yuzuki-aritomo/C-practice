@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\ngnls\source\repos\File\File\bin\Debug\File.exe
+C:\Users\ngnls\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\ngnls\source\repos\File\File\obj\Debug\File.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\File\File\obj\Debug\File.exe
+C:\Users\ngnls\source\repos\File\File\obj\Debug\File.pdb

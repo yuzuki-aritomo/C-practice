@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\bin\Debug\gyouretu.exe.config
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\bin\Debug\gyouretu.exe
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\bin\Debug\gyouretu.pdb
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\obj\Debug\gyouretu.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\obj\Debug\gyouretu.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\obj\Debug\gyouretu.exe
+C:\Users\ngnls\source\repos\gyouretu\gyouretu\obj\Debug\gyouretu.pdb

@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\IRIS\IRIS\bin\Debug\IRIS.exe.config
+C:\Users\ngnls\source\repos\IRIS\IRIS\bin\Debug\IRIS.exe
+C:\Users\ngnls\source\repos\IRIS\IRIS\bin\Debug\IRIS.pdb
+C:\Users\ngnls\source\repos\IRIS\IRIS\obj\Debug\IRIS.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\IRIS\IRIS\obj\Debug\IRIS.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\IRIS\IRIS\obj\Debug\IRIS.exe
+C:\Users\ngnls\source\repos\IRIS\IRIS\obj\Debug\IRIS.pdb

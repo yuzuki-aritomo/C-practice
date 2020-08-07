@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Project7\Project7\bin\Debug\Project7.exe.config
+C:\Users\ngnls\source\repos\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\ngnls\source\repos\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\ngnls\source\repos\Project7\Project7\obj\Debug\Project7.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Project7\Project7\obj\Debug\Project7.exe
+C:\Users\ngnls\source\repos\Project7\Project7\obj\Debug\Project7.pdb

@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\obj\Debug\Project_7.8.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\obj\Debug\Project_7.8.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\bin\Debug\Project_7.8.exe.config
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\bin\Debug\Project_7.8.exe
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\bin\Debug\Project_7.8.pdb
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\obj\Debug\Project_7.8.exe
+C:\Users\ngnls\source\repos\Project_7.8\Project_7.8\obj\Debug\Project_7.8.pdb

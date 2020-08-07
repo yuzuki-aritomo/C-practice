@@ -1,0 +1,9 @@
+C:\Users\ngnls\source\repos\Project Main\Project Main\bin\Debug\Project Main.exe.config
+C:\Users\ngnls\source\repos\Project Main\Project Main\bin\Debug\Project Main.exe
+C:\Users\ngnls\source\repos\Project Main\Project Main\bin\Debug\Project Main.pdb
+C:\Users\ngnls\source\repos\Project Main\Project Main\obj\Debug\Project Main.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Project Main\Project Main\obj\Debug\Project Main.exe
+C:\Users\ngnls\source\repos\Project Main\Project Main\obj\Debug\Project Main.pdb
+C:\Users\ngnls\source\repos\Project Main\Project Main\bin\Debug\Kadai.dll
+C:\Users\ngnls\source\repos\Project Main\Project Main\obj\Debug\Project Main.csproj.CopyComplete
+C:\Users\ngnls\source\repos\Project Main\Project Main\obj\Debug\Project Main.csprojAssemblyReference.cache

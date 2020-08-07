@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\sort_b\sort_b\bin\Debug\sort_b.exe.config
+C:\Users\ngnls\source\repos\sort_b\sort_b\bin\Debug\sort_b.exe
+C:\Users\ngnls\source\repos\sort_b\sort_b\bin\Debug\sort_b.pdb
+C:\Users\ngnls\source\repos\sort_b\sort_b\obj\Debug\sort_b.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\sort_b\sort_b\obj\Debug\sort_b.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\sort_b\sort_b\obj\Debug\sort_b.exe
+C:\Users\ngnls\source\repos\sort_b\sort_b\obj\Debug\sort_b.pdb

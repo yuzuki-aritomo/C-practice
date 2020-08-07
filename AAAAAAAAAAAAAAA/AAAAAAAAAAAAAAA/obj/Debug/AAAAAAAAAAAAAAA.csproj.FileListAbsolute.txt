@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAAA.exe.config
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAAA.exe
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAAA.pdb
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAAA.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAAA.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAAA.exe
+C:\Users\ngnls\source\repos\AAAAAAAAAAAAAAA\AAAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAAA.pdb

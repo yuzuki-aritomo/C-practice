@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\MSE\MSE\bin\Debug\MSE.exe.config
+C:\Users\ngnls\source\repos\MSE\MSE\bin\Debug\MSE.exe
+C:\Users\ngnls\source\repos\MSE\MSE\bin\Debug\MSE.pdb
+C:\Users\ngnls\source\repos\MSE\MSE\obj\Debug\MSE.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\MSE\MSE\obj\Debug\MSE.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\MSE\MSE\obj\Debug\MSE.exe
+C:\Users\ngnls\source\repos\MSE\MSE\obj\Debug\MSE.pdb

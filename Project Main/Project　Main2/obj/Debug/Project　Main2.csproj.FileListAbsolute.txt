@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\bin\Debug\Project　Main2.exe.config
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\bin\Debug\Project　Main2.exe
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\bin\Debug\Project　Main2.pdb
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\obj\Debug\Project　Main2.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\obj\Debug\Project　Main2.exe
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\obj\Debug\Project　Main2.pdb
+C:\Users\ngnls\source\repos\Project Main\Project　Main2\obj\Debug\Project　Main2.csprojAssemblyReference.cache

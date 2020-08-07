@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Amida\Amida\bin\Debug\Amida.exe.config
+C:\Users\ngnls\source\repos\Amida\Amida\bin\Debug\Amida.exe
+C:\Users\ngnls\source\repos\Amida\Amida\bin\Debug\Amida.pdb
+C:\Users\ngnls\source\repos\Amida\Amida\obj\Debug\Amida.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\Amida\Amida\obj\Debug\Amida.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Amida\Amida\obj\Debug\Amida.exe
+C:\Users\ngnls\source\repos\Amida\Amida\obj\Debug\Amida.pdb
