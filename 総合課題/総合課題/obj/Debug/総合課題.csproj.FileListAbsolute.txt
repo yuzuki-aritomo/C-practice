@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\総合課題\総合課題\obj\Debug\総合課題.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\総合課題\総合課題\bin\Debug\総合課題.exe.config
+C:\Users\ngnls\source\repos\総合課題\総合課題\bin\Debug\総合課題.exe
+C:\Users\ngnls\source\repos\総合課題\総合課題\bin\Debug\総合課題.pdb
+C:\Users\ngnls\source\repos\総合課題\総合課題\obj\Debug\総合課題.exe
+C:\Users\ngnls\source\repos\総合課題\総合課題\obj\Debug\総合課題.pdb
+C:\Users\ngnls\source\repos\総合課題\総合課題\obj\Debug\総合課題.csprojAssemblyReference.cache

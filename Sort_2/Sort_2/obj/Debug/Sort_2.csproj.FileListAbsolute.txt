@@ -1,0 +1,7 @@
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\bin\Debug\Sort_2.exe.config
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\bin\Debug\Sort_2.exe
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\bin\Debug\Sort_2.pdb
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\obj\Debug\Sort_2.csprojAssemblyReference.cache
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\obj\Debug\Sort_2.csproj.CoreCompileInputs.cache
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\obj\Debug\Sort_2.exe
+C:\Users\ngnls\source\repos\Sort_2\Sort_2\obj\Debug\Sort_2.pdb
